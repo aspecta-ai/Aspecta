@@ -10,7 +10,7 @@ You can use OAuth 2.0 and REST APIs to query Aspecta. See https://docs.aspecta.i
 Under construction.
 
 # FAQ
-https://aspecta.id/faqs/aspecta-id
+See commonly asked questions at https://aspecta.id/faqs/aspecta-id
 
 # Aspecta's Developer Economy Initiative
 The Developer Economy: Why, What, and How -- In honor of the builders
