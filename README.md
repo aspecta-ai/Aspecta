@@ -1,7 +1,7 @@
 # Aspecta - Tokenize Developer Economy with AI
 The introduction and tutorial of Aspecta
 
-Hi there, please visit https://aspecta.id to find this new paradigm of developer economy. Our goal is to *recognize, brand, and supercharge* 100M deverlopers and innovations!
+Hi there, please visit https://aspecta.id to find this new paradigm of developer economy. Our goal is to *recognize, brand, and supercharge* 100M developers and innovations!
 
 # Docs: Build with Aspecta
 You can use OAuth 2.0 and REST APIs to query Aspecta. See https://docs.aspecta.id/
@@ -22,6 +22,3 @@ Under construction.
 
 ## Dev Economy: Recognize, Brand and Supercharge
 Under construction.
-
-# Docs: Build with Aspecta
-You can use OAuth 2.0 and REST APIs to query Aspecta. See [https://docs.aspecta.id/]
