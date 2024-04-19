@@ -13,6 +13,7 @@ Under construction.
 https://aspecta.id/faqs/aspecta-id
 
 # Aspecta's Developer Economy Initiative
+The Developer Economy: Why, What, and How -- In honor of the builders
 ## The Unsung Building Heroes 
 Under construction.
 
